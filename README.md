@@ -27,6 +27,9 @@ A simple web-based accounting book built with Python Flask and MongoDB. It suppo
   - Automatically opens the browser to access `http://localhost:3000` upon startup.
   - Closing the console window stops the service completely.
 
+- **pic1.png, pic2.png, pic3.png**:
+  - Screenshots demonstrating the frontend interface of the project.
+
 ## Environment Dependencies
 
 ### Python Version
